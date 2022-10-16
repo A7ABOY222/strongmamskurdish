@@ -1,2 +1,1 @@
-# strongmamskurdish
-Gg
+
