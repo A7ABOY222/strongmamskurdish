@@ -1,0 +1,16 @@
+{
+  "name": "acc-streaming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MrSaro&MrHemo",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.11.0", 
+    "discord.js-selfbot-v13": "^2.4.6"
+    
+  }
+}
